@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "fruitname": "Apple",
+    "isfresh": true
+  },
+  {
+    "id": 2,
+    "fruitname": "Banana",
+    "isfresh": true
+  },
+  {
+    "id": 3,
+    "fruitname": "Orange",
+    "isfresh": false
+  },
+  {
+    "id": 4,
+    "fruitname": "Grape",
+    "isfresh": true
+  },
+  {
+    "id": 5,
+    "fruitname": "Watermelon",
+    "isfresh": false
+  },
+  {
+    "id": 6,
+    "fruitname": "Pineapple",
+    "isfresh": true
+  },
+  {
+    "id": 7,
+    "fruitname": "Strawberry",
+    "isfresh": true
+  },
+  {
+    "id": 8,
+    "fruitname": "Cherry",
+    "isfresh": true
+  },
+  {
+    "id": 9,
+    "fruitname": "Blueberry",
+    "isfresh": true
+  },
+  {
+    "id": 10,
+    "fruitname": "Mango",
+    "isfresh": false
+  }
+]
